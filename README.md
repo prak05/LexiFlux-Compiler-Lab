@@ -1,4 +1,4 @@
-# CSE Compiler design Lab
+# LexiFlux Compiler Lab
 
 Curated coursework implementations and supporting documents from Prakhar Sharma's CSE lab work.
 
