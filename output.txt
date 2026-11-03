@@ -1,0 +1,12 @@
+
+MOV RO,a
+ADD RO,b
+MOV t1,R0
+MOV RO,c
+MUL RO,d
+MOV t2,R0
+MOV RO,t1
+SUB RO,t2
+MOV t,R0
+MOV RO,t
+MOV x,R0
